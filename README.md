@@ -3,8 +3,8 @@ App de escritorio para consultar CCMA (ARCA) a través de API
   
 ### Puesta en marcha
 
-1 - Descargue los archivos ejemplo.png, claves.xlsx, y Consulta.CCMA.exe (este último desde la parte de Releases, a la derecha de la pantalla) y colóquelos en una misma carpeta.  
-2 - Ejecute Consulta.CCMA.exe
+1 - Descargue los archivos ejemplo.png, claves.xlsx, y AppCCMA.exe (este último desde la parte de Releases, a la derecha de la pantalla) y colóquelos en una misma carpeta.  
+2 - Ejecute AppCCMA.exe
 
 ### Obtención de API key
 
