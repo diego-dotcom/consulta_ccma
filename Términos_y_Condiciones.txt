@@ -1,0 +1,32 @@
+TÉRMINOS Y CONDICIONES DE USO
+1. Aceptación de los términos
+
+El uso de este software (en adelante, “el Programa”) implica la aceptación plena y sin reservas por parte del Usuario de los presentes Términos y Condiciones. Si el Usuario no acepta alguno de estos términos, deberá abstenerse de utilizar el Programa.
+
+2. Naturaleza del Programa
+
+El Programa ha sido desarrollado con fines informativos y de asistencia técnica automatizada, pero no cumple con las condiciones formales, funcionales ni de homologación establecidos por la Disposición 74/2022 de la Administración Federal de Ingresos Públicos (AFIP), ni por ninguna otra normativa vigente que regule el desarrollo o uso de software fiscal, contable o administrativo con efectos legales.
+
+3. Exclusión de responsabilidad
+
+El desarrollador no garantiza el correcto funcionamiento del Programa bajo ninguna circunstancia específica, ni se responsabiliza por:
+
+Fallas técnicas, errores o inexactitudes que pudieran surgir del uso del Programa.
+
+Cualquier daño, directo o indirecto, material o moral, que pudiera sufrir el Usuario o terceros como consecuencia del uso del Programa, incluyendo pero no limitándose a errores en cálculos, registros, informes, automatizaciones o comunicaciones con servicios de terceros.
+
+Consecuencias legales, fiscales o comerciales derivadas del uso del Programa por parte del Usuario.
+
+El uso del Programa se realiza bajo exclusiva responsabilidad del Usuario, quien asume todos los riesgos asociados a su uso y aplicación.
+
+4. Créditos y funcionamiento
+
+La obtención de créditos, ya sea por medios gratuitos, promocionales o mediante cualquier sistema de adquisición, no garantiza la disponibilidad, funcionalidad, estabilidad ni continuidad del servicio provisto por el Programa. Los créditos no constituyen una obligación contractual del desarrollador de mantener la herramienta operativa, libre de errores o accesible en forma permanente.
+
+5. Independencia del desarrollador
+
+El desarrollador no asume compromiso alguno frente al Usuario ni frente a terceros respecto al mantenimiento, actualización, soporte técnico o garantía de resultados del Programa. Cualquier consulta o sugerencia podrá ser dirigida a través de los canales de contacto indicados, pero ello no implica obligación de respuesta ni de resolución por parte del desarrollador.
+
+6. Modificaciones
+
+El desarrollador se reserva el derecho de modificar los presentes Términos y Condiciones en cualquier momento, sin necesidad de notificación previa. La versión actualizada se considerará aceptada por el Usuario con la continuidad en el uso del Programa.
